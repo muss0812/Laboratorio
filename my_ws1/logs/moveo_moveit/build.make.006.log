@@ -1,0 +1,39 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target move_group_1[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _moveo_moveit_generate_messages_check_deps_ArmJointState
+[  9%] [34m[1mGenerating EusLisp code from moveo_moveit/ArmJointState.msg[0m
+[ 18%] [34m[1mGenerating C++ code from moveo_moveit/ArmJointState.msg[0m
+[ 27%] [34m[1mGenerating Lisp code from moveo_moveit/ArmJointState.msg[0m
+[ 45%] [34m[1mGenerating Python from MSG moveo_moveit/ArmJointState[0m
+[ 45%] [34m[1mGenerating Javascript code from moveo_moveit/ArmJointState.msg[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/move_group_1.dir/src/move_group_interface_coor_1.cpp.o[0m
+[ 54%] Built target moveo_moveit_generate_messages_nodejs
+[ 54%] Built target moveo_moveit_generate_messages_lisp
+[ 63%] Built target moveo_moveit_generate_messages_eus
+[ 63%] Built target moveo_moveit_generate_messages_cpp
+[35m[1mScanning dependencies of target moveit_convert[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/moveit_convert.dir/src/moveit_convert.cpp.o[0m
+[ 81%] [34m[1mGenerating Python msg __init__.py for moveo_moveit[0m
+[ 81%] Built target moveo_moveit_generate_messages_py
+[ 81%] Built target moveo_moveit_generate_messages
+[ 90%] [32m[1mLinking CXX executable /home/junior/my_ws1/devel/.private/moveo_moveit/lib/moveo_moveit/moveit_convert[0m
+[ 90%] Built target moveit_convert
+[01m[K/home/junior/my_ws1/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/junior/my_ws1/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:127:47:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing MoveItErrorCode = class moveit::core::MoveItErrorCode[m[K’ is deprecated: Use moveit::core::MoveItErrorCode [[01;35m[K-Wdeprecated-declarations[m[K]
+  127 |   moveit::planning_interface::MoveItErrorCode [01;35m[Ksuccess[m[K = move_group.plan(my_plan);
+      |                                               [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/junior/my_ws1/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:1[m[K:
+[01m[K/home/junior/my_ws1/src/moveit/moveit_ros/planning_interface/move_group_interface/include/moveit/move_group_interface/move_group_interface.h:64:7:[m[K [01;36m[Knote: [m[Kdeclared here
+   64 | using [01;36m[KMoveItErrorCode[m[K [[deprecated("Use moveit::core::MoveItErrorCode")]] = moveit::core::MoveItErrorCode;
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable /home/junior/my_ws1/devel/.private/moveo_moveit/lib/moveo_moveit/move_group_1[0m
+[100%] Built target move_group_1

@@ -1,0 +1,8 @@
+[01m[K/home/junior/my_ws1/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/junior/my_ws1/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:127:47:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing MoveItErrorCode = class moveit::core::MoveItErrorCode[m[K’ is deprecated: Use moveit::core::MoveItErrorCode [[01;35m[K-Wdeprecated-declarations[m[K]
+  127 |   moveit::planning_interface::MoveItErrorCode [01;35m[Ksuccess[m[K = move_group.plan(my_plan);
+      |                                               [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/home/junior/my_ws1/src/moveo_ros/moveo_moveit/src/move_group_interface_coor_1.cpp:1[m[K:
+[01m[K/home/junior/my_ws1/src/moveit/moveit_ros/planning_interface/move_group_interface/include/moveit/move_group_interface/move_group_interface.h:64:7:[m[K [01;36m[Knote: [m[Kdeclared here
+   64 | using [01;36m[KMoveItErrorCode[m[K [[deprecated("Use moveit::core::MoveItErrorCode")]] = moveit::core::MoveItErrorCode;
+      |       [01;36m[K^~~~~~~~~~~~~~~[m[K

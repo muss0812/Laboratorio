@@ -1,0 +1,6 @@
+Linked: (/home/junior/my_ws1/devel/.private/moveit_commander/lib/python3/dist-packages/moveit_commander/__init__.py, /home/junior/my_ws1/devel/lib/python3/dist-packages/moveit_commander/__init__.py)
+Linked: (/home/junior/my_ws1/devel/.private/moveit_commander/lib/pkgconfig/moveit_commander.pc, /home/junior/my_ws1/devel/lib/pkgconfig/moveit_commander.pc)
+Linked: (/home/junior/my_ws1/devel/.private/moveit_commander/lib/moveit_commander/cmake.lock, /home/junior/my_ws1/devel/lib/moveit_commander/cmake.lock)
+Linked: (/home/junior/my_ws1/devel/.private/moveit_commander/lib/moveit_commander/moveit_commander_cmdline.py, /home/junior/my_ws1/devel/lib/moveit_commander/moveit_commander_cmdline.py)
+Linked: (/home/junior/my_ws1/devel/.private/moveit_commander/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake, /home/junior/my_ws1/devel/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake)
+Linked: (/home/junior/my_ws1/devel/.private/moveit_commander/share/moveit_commander/cmake/moveit_commanderConfig.cmake, /home/junior/my_ws1/devel/share/moveit_commander/cmake/moveit_commanderConfig.cmake)

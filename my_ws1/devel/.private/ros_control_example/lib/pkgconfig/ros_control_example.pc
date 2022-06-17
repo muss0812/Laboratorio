@@ -1,0 +1,8 @@
+prefix=/home/junior/my_ws1/devel/.private/ros_control_example
+
+Name: ros_control_example
+Description: Description of ros_control_example
+Version: 0.0.0
+Cflags: -I/home/junior/my_ws1/src/ros_control_example/ros_control_example/include
+Libs: -L${prefix}/lib 
+Requires: controller_manager roscpp rospy std_msgs std_srvs

@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/six_dof_spatial_manipulator/share/six_dof_spatial_manipulator/cmake/six_dof_spatial_manipulatorConfig-version.cmake

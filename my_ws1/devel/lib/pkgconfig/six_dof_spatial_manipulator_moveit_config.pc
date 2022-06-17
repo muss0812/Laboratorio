@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/six_dof_spatial_manipulator_moveit_config/lib/pkgconfig/six_dof_spatial_manipulator_moveit_config.pc

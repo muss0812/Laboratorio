@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_setup_assistant/lib/pkgconfig/moveit_setup_assistant.pc

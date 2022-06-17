@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveo_moveit/share/moveo_moveit/cmake/moveo_moveit-msg-extras.cmake

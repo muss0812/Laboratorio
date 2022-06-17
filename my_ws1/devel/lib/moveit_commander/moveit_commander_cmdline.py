@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_commander/lib/moveit_commander/moveit_commander_cmdline.py

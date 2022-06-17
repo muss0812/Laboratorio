@@ -1,0 +1,4 @@
+Symlinking /home/junior/my_ws1/devel/lib/pkgconfig/six_dof_spatial_manipulator.pc
+Symlinking /home/junior/my_ws1/devel/lib/six_dof_spatial_manipulator/six_robot_hardware_interface
+Symlinking /home/junior/my_ws1/devel/share/six_dof_spatial_manipulator/cmake/six_dof_spatial_manipulatorConfig-version.cmake
+Symlinking /home/junior/my_ws1/devel/share/six_dof_spatial_manipulator/cmake/six_dof_spatial_manipulatorConfig.cmake

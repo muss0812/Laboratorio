@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_ros_visualization/lib/python3/dist-packages/moveit_ros_visualization/__init__.py

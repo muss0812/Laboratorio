@@ -1,0 +1,7 @@
+moveit/moveit_ros/robot_interaction
+/home/junior/my_ws1/devel/.private/moveit_ros_robot_interaction/cmake.lock /home/junior/my_ws1/devel/./cmake.lock
+/home/junior/my_ws1/devel/.private/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so /home/junior/my_ws1/devel/lib/libmoveit_robot_interaction.so
+/home/junior/my_ws1/devel/.private/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so.1.1.8 /home/junior/my_ws1/devel/lib/libmoveit_robot_interaction.so.1.1.8
+/home/junior/my_ws1/devel/.private/moveit_ros_robot_interaction/lib/pkgconfig/moveit_ros_robot_interaction.pc /home/junior/my_ws1/devel/lib/pkgconfig/moveit_ros_robot_interaction.pc
+/home/junior/my_ws1/devel/.private/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig-version.cmake /home/junior/my_ws1/devel/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig-version.cmake
+/home/junior/my_ws1/devel/.private/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig.cmake /home/junior/my_ws1/devel/share/moveit_ros_robot_interaction/cmake/moveit_ros_robot_interactionConfig.cmake

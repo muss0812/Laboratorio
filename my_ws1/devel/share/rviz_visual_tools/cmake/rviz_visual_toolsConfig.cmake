@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/rviz_visual_tools/share/rviz_visual_tools/cmake/rviz_visual_toolsConfig.cmake

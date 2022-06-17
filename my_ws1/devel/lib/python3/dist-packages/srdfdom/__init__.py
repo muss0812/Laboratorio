@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/srdfdom/lib/python3/dist-packages/srdfdom/__init__.py

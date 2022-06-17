@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/ros_control_example/share/ros_control_example/cmake/ros_control_exampleConfig.cmake

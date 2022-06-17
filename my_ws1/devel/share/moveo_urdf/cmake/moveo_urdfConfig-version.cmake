@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveo_urdf/share/moveo_urdf/cmake/moveo_urdfConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/junior/my_ws1/devel/lib/pkgconfig/ros_control_example.pc
+Symlinking /home/junior/my_ws1/devel/lib/ros_control_example/single_joint_hardware_interface
+Symlinking /home/junior/my_ws1/devel/share/ros_control_example/cmake/ros_control_exampleConfig.cmake
+Symlinking /home/junior/my_ws1/devel/share/ros_control_example/cmake/ros_control_exampleConfig-version.cmake

@@ -1,0 +1,5 @@
+moveit_resources/prbt_pg70_support
+/home/junior/my_ws1/devel/.private/moveit_resources_prbt_pg70_support/cmake.lock /home/junior/my_ws1/devel/./cmake.lock
+/home/junior/my_ws1/devel/.private/moveit_resources_prbt_pg70_support/lib/pkgconfig/moveit_resources_prbt_pg70_support.pc /home/junior/my_ws1/devel/lib/pkgconfig/moveit_resources_prbt_pg70_support.pc
+/home/junior/my_ws1/devel/.private/moveit_resources_prbt_pg70_support/share/moveit_resources_prbt_pg70_support/cmake/moveit_resources_prbt_pg70_supportConfig.cmake /home/junior/my_ws1/devel/share/moveit_resources_prbt_pg70_support/cmake/moveit_resources_prbt_pg70_supportConfig.cmake
+/home/junior/my_ws1/devel/.private/moveit_resources_prbt_pg70_support/share/moveit_resources_prbt_pg70_support/cmake/moveit_resources_prbt_pg70_supportConfig-version.cmake /home/junior/my_ws1/devel/share/moveit_resources_prbt_pg70_support/cmake/moveit_resources_prbt_pg70_supportConfig-version.cmake

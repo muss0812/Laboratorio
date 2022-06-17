@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveo_moveit/share/roseus/ros/moveo_moveit/manifest.l

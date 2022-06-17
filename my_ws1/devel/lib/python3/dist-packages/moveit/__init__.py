@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_core/lib/python3/dist-packages/moveit/__init__.py

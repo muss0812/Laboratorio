@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/geometric_shapes/lib/pkgconfig/geometric_shapes.pc

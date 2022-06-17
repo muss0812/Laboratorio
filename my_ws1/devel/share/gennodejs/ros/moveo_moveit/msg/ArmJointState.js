@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveo_moveit/share/gennodejs/ros/moveo_moveit/msg/ArmJointState.js

@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveo_moveit_config/lib/pkgconfig/moveo_moveit_config.pc

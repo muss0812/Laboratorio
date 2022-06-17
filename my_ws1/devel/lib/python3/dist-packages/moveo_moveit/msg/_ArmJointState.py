@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveo_moveit/lib/python3/dist-packages/moveo_moveit/msg/_ArmJointState.py

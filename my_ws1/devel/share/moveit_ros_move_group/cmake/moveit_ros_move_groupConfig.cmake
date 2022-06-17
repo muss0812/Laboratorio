@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_ros_move_group/share/moveit_ros_move_group/cmake/moveit_ros_move_groupConfig.cmake

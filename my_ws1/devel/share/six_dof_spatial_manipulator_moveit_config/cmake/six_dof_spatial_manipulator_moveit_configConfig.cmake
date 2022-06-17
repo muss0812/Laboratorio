@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/six_dof_spatial_manipulator_moveit_config/share/six_dof_spatial_manipulator_moveit_config/cmake/six_dof_spatial_manipulator_moveit_configConfig.cmake

@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_msgs/share/roseus/ros/moveit_msgs/msg/Grasp.l

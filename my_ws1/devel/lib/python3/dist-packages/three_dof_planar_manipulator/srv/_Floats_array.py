@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/three_dof_planar_manipulator/lib/python3/dist-packages/three_dof_planar_manipulator/srv/_Floats_array.py

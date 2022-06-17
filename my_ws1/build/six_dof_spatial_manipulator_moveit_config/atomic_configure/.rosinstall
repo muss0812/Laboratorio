@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/junior/my_ws1/devel/.private/six_dof_spatial_manipulator_moveit_config/setup.sh

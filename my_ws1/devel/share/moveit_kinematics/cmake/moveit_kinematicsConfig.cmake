@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/moveit_kinematics/share/moveit_kinematics/cmake/moveit_kinematicsConfig.cmake

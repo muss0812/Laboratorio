@@ -1,0 +1,8 @@
+prefix=/home/junior/my_ws1/devel/.private/six_dof_spatial_manipulator
+
+Name: six_dof_spatial_manipulator
+Description: Description of six_dof_spatial_manipulator
+Version: 0.0.0
+Cflags: -I/home/junior/my_ws1/src/6-DOF_Manipulator/six_dof_spatial_manipulator/include
+Libs: -L${prefix}/lib 
+Requires: actionlib control_msgs controller_manager roscpp rospy std_msgs std_srvs tf tf2 tf2_ros trajectory_msgs visualization_msgs

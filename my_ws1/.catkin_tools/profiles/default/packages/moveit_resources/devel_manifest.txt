@@ -1,0 +1,2 @@
+moveit_resources/moveit_resources
+/home/junior/my_ws1/devel/.private/moveit_resources/cmake.lock /home/junior/my_ws1/devel/./cmake.lock

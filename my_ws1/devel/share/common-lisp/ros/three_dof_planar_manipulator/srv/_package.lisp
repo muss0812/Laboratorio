@@ -1,0 +1,1 @@
+/home/junior/my_ws1/devel/.private/three_dof_planar_manipulator/share/common-lisp/ros/three_dof_planar_manipulator/srv/_package.lisp
